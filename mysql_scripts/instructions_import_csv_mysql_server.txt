@@ -1,0 +1,17 @@
+1. Open /etc/mysql/mysql.conf
+2. Add and save: [mysqld] local-infile = 1
+3. restart mysql server: systemctl restart mysql
+
+4. Establish connection with mysql server using:
+	mysql -u user -p --local-infile=1 database
+
+5. Execute importation:
+	load data local infile '/tmp/data.csv'
+	into table sales
+	fields terminated by ','
+	enclosed by '"'
+	lines terminated by '\n'
+	ignore 1 rows;
+6. Grant privileges to db user
+
+
