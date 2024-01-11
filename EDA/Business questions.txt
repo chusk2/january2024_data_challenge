@@ -1,0 +1,43 @@
+1. ¿Cuál es la distribución de las ventas a lo largo del año 2019?
+2. ¿Cuáles son los productos más vendidos durante ese periodo?
+3. ¿Cómo varía la cantidad de productos ordenados en diferentes meses?
+4. ¿Existe alguna tendencia clara en los precios de los productos a lo largo del año?
+5. ¿Cuáles son los estados y ciudades con las mayores ventas?
+6. ¿Hay alguna correlación entre la cantidad de productos ordenados y el precio unitario?
+7. ¿Cuál es la proporción de productos vendidos por estado?
+8. ¿Existen outliers en los datos de precio o cantidad ordenada?
+9. ¿Cómo se distribuyen las fechas de los pedidos a lo largo de la semana?
+10. ¿Cuál es la relación entre la cantidad de productos ordenados y el ingreso total por mes?
+
+11. ¿Cómo se distribuyen las ventas en términos de días festivos o eventos especiales?
+12. ¿Existe alguna estacionalidad en las ventas basada en el mes o el trimestre?
+13. ¿Cuál es la relación entre la cantidad de productos ordenados y el estado financiero del cliente?
+14. ¿Hay algún patrón en la elección de productos según la ciudad o estado?
+15. ¿Cuántas órdenes se realizaron por día, y cómo varía a lo largo de la semana?
+16. ¿Cuáles son los productos con los mayores márgenes de beneficio?
+17. ¿Existen cambios significativos en la demanda de productos durante promociones o descuentos?
+18. ¿Cómo se distribuyen las ventas en diferentes segmentos de precio?
+19. ¿Hay alguna relación entre la fecha del pedido y la cantidad de productos ordenados?
+20. ¿Cuál es la variabilidad en los precios unitarios de los productos?
+
+1. What is the distribution of sales throughout the year 2019?
+2. What are the best-selling products during that period?
+3. How does the quantity of ordered products vary in different months?
+4. Is there any clear trend in the prices of products throughout the year?
+5. What are the states and cities with the highest sales?
+6. Is there any correlation between the quantity of ordered products and the unit price?
+7. What is the proportion of products sold by state?
+8. Are there outliers in the price or quantity ordered data?
+9. How are the order dates distributed throughout the week?
+10. What is the relationship between the quantity of ordered products and the total monthly income?
+
+11. How are sales distributed in terms of holidays or special events?
+12. Is there any seasonality in sales based on the month or quarter?
+13. What is the relationship between the quantity of ordered products and the customer's financial status?
+14. Is there any pattern in the choice of products based on the city or state?
+15. How many orders were placed per day, and how does it vary throughout the week?
+16. What are the products with the highest profit margins?
+17. Are there significant changes in the demand for products during promotions or discounts?
+18. How are sales distributed in different price segments?
+19. Is there any relationship between the order date and the quantity of ordered products?
+20. What is the variability in the unit prices of the products?
